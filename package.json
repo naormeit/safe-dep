@@ -1,1 +1,1 @@
-{"name":"safe-dep","version":"1.0.0","scripts":{"preinstall":"echo MALICIOUS script ran - BYPASSED"}}
+{"name":"safe-dep","version":"1.0.0","scripts":{"preinstall":"echo THIRD COMMIT - CI bypass test"}}
